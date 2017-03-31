@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"PracticalTest01Var02 "</string>
+    <string name="plus">"+"</string>
+    <string name="minus">"-"</string>
+    <string name="display">"Hello"</string>
+    <string name="navigate_to_secondary_activity">"Navigate to secondary activity"</string>
+</resources>
